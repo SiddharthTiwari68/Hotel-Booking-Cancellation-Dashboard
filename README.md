@@ -36,3 +36,4 @@ The Hotel Booking Cancellation Dashboard provides valuable insights that can hel
 
 # Future Work
 Further analysis could include a deeper dive into specific customer behaviors and the impact of external factors (e.g., seasonality, promotions) on cancellations. Additionally, predictive models could be developed to forecast potential cancellations.
+![image](https://github.com/user-attachments/assets/ce4d494e-19c3-44a0-a099-bd9cc19df77a)
